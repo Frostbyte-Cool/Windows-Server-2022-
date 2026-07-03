@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/29616908/README.md)
-# Windows Server 2025 Active Directory Domain Controller Lab
+# Windows Server 2025 (2022 wasnt available)  Active Directory Domain Controller Lab
 
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-2025-0078D6?logo=windows&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-Cloud-0089D6?logo=microsoftazure&logoColor=white)
